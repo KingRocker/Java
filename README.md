@@ -1,4 +1,4 @@
 # Java
 
-This is projects I've done in java at Capacity and played around with.
+This is projects I've done in java at Capaciti and played around with.
 
